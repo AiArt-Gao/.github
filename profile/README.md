@@ -4,6 +4,10 @@
 
 🌈 We mainly apply machine learning techniques to computer vision problems. Our research interests include visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis, etc. 
 
+👩‍ We have developed a series of demonstrations for artistic portrait drawing generation (APDG), including an applet, a robot, and a printer. To this end, we develop novel APDG algorithms which can translate a facial photo into high quality portraits of five artistic styles, i.e. the line-drawing, pen-drawing, pencil-drawing, abstract-drawing, and cartoon. Besides, we provide a number of templates to post-process the generated portraits. By simply pressing several buttons, users can obtain artistic portraits in the applet and order the robot/printer to draw/print them on beautiful postcards. The whole procedure only consumes about 2 minutes. Our demonstrations are easy to use and have achieved excellent user experience in various exhibitions.
+
+
+
 
 <!--
 
