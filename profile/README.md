@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🙋‍ AiArt Group is part of [the iGame Lab](https://igame.hdu.edu.cn/), at [the School of Computer Science and Technology](http://computer.hdu.edu.cn/), Hangzhou Dianzi University ([HDU](https://www.hdu.edu.cn/)). 
+
 杭州电子科技大学，计算机学院，智能可视建模与仿真实验室 iGame Lab，智能视觉艺术小组
 
 🌈 We mainly apply machine learning techniques to computer vision problems. Our research interests include visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis, etc. 
