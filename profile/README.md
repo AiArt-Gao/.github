@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-🙋‍ AiArt Group is part of [the iGame Lab](https://igame.hdu.edu.cn/), at [the School of Computer Science and Technology](http://computer.hdu.edu.cn/), Hangzhou Dianzi University ([HDU](https://www.hdu.edu.cn/)). 
+🙋‍ AiArt Group by [Fei Gao](https://aiart.live/)
 
-杭州电子科技大学，计算机学院，智能可视建模与仿真实验室 iGame Lab，智能视觉艺术小组
+[2015-2026] is at [the School of Computer Science and Technology](http://computer.hdu.edu.cn/), Hangzhou Dianzi University ([HDU](https://www.hdu.edu.cn/)). 
+
+[2024-Now]is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](https://hz.xidian.edu.cn/), at [Xidian University](https://www.xidian.edu.cn/). 
+
+智能视觉艺术小组：杭州电子科技大学-计算机学院 & 西安电子科技大学-杭州研究院
 
 🌈 We mainly apply machine learning techniques to computer vision problems. Our research interests include visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis, etc. 
 
