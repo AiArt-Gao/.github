@@ -4,7 +4,7 @@
 
 [2015-2026] is at [the School of Computer Science and Technology](http://computer.hdu.edu.cn/), Hangzhou Dianzi University ([HDU](https://www.hdu.edu.cn/)). 
 
-[2024-Now]is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](https://hz.xidian.edu.cn/), at [Xidian University](https://www.xidian.edu.cn/). 
+[2024-Now] is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](https://hz.xidian.edu.cn/), at [Xidian University](https://www.xidian.edu.cn/). 
 
 智能视觉艺术小组：杭州电子科技大学-计算机学院 & 西安电子科技大学-杭州研究院
 
