@@ -10,12 +10,17 @@
 
 🌈 We mainly apply machine learning techniques to computer vision problems. Our research interests include visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis, etc. 
 
+🧙 我们的主要研究研究兴趣为 人工智能 和 计算机视觉，包括 视觉质量评价、图像生成 AIGC、医学影像分析 等。
+
+
+<!--
+
+
 🧙 We have developed a series of demonstrations for artistic portrait drawing generation (APDG), including an applet, a robot, and a printer. Our demonstrations are easy to use and have achieved excellent user experience in various exhibitions. You can try our demos by scanning the following QR code （"妙绘艺术"微信小程序）.
 
 ![](wechat.png)
 
 
-<!--
 
 **Here are some ideas to get you started:**
 
