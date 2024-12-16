@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍ AiArt Group by [Fei Gao](https://aiart.live/)
+🙋‍ AiArt Group by [Fei Gao](https://github.com/fei-aiart)
 
 [2015-2026] is at [the School of Computer Science and Technology](http://computer.hdu.edu.cn/), Hangzhou Dianzi University ([HDU](https://www.hdu.edu.cn/)). 
 
