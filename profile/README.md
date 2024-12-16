@@ -8,9 +8,9 @@
 
 智能视觉艺术小组：杭州电子科技大学-计算机学院 & 西安电子科技大学-杭州研究院
 
-🌈 We mainly apply machine learning techniques to computer vision problems. Our research interests include visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis, etc. 
+🌈 We mainly apply machine learning techniques to computer vision problems. Our research interests include degraded image analysis, image generation, biomedical image analysis, etc. 
 
-🧙 我们的主要研究研究兴趣为 人工智能 和 计算机视觉，包括 视觉质量评价、图像生成 AIGC、医学影像分析 等。
+🧙 我们的主要研究研究兴趣为人工智能和计算机视觉，包括低质图像分析、视觉内容生成AIGC、医学影像分析、绘画机器人等。
 
 
 <!--
